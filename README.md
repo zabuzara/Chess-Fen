@@ -5,10 +5,10 @@ Random created FENs for test your own chess application. It may inludes impossib
 All of fens passed start to end game of Checkmate or Draw by using Stockfish 16 for get the bestmove.
 
 ## Example 
-### running fen on PHP-Chess writen by zabuzara
-### Start position: 6Q1/p1p3P1/1k1p2N1/p1n1p2P/5r2/1b6/2n4K/b1q2b2 b - - 29 30
-### Checkmate at:   6Q1/p1p3P1/1k1p2N1/p1n1p2P/5r2/1b6/2n3q1/b4b1K w - - 32 32
-###                 after move d2g2, game over by Checkmate
+running fen on PHP-Chess writen by zabuzara
+-  Start position: 6Q1/p1p3P1/1k1p2N1/p1n1p2P/5r2/1b6/2n4K/b1q2b2 b - - 29 30
+-  Checkmate at:   6Q1/p1p3P1/1k1p2N1/p1n1p2P/5r2/1b6/2n3q1/b4b1K w - - 32 32
+-                  after move d2g2, game over by Checkmate
 
 ## First Move queen from c1 to d1
 <img width="572" alt="Screenshot-1" src="https://github.com/zabuzara/Chess-Fen/assets/79631865/7f5678c7-d24e-4d88-af63-4979d372e64c">
